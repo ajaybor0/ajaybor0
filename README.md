@@ -1,8 +1,6 @@
 ![](https://i.ibb.co/GWMLqcB/Add-a-heading.png)
 
 I’m a passionate self-taught Frontend Developer based in India, who solves the problem then writes the code.
-</br>
-Apart from coding, I’m interested in cooking, gaming, watching movies/tv shows, listening to music.
 
 - 🔭 I’m currently working on my personal <a href="https://github.com/ajaybor0/reactjs-projects">Projects</a>
 - 🌱 I’m currently learning <a href="https://reactjs.org/">ReactJS</a>
