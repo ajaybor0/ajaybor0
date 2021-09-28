@@ -2,7 +2,6 @@
 
 I’m a passionate self-taught Frontend Developer based in India, who solves the problem then writes the code.
 
-- 🌱 I’m currently learning <a href="https://reactjs.org/">ReactJS</a>
 - Learning in public on <a href="https://twitter.com/ajaybor0">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/ajaybor0/">Linkedin</a>
 
