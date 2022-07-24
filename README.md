@@ -1,9 +1,12 @@
 ![](https://i.ibb.co/GWMLqcB/Add-a-heading.png)
 
-I’m a passionate self-taught Frontend Developer based in India, who solves the problem then writes the code.
+I’m a passionate Frontend Developer based in India, who solves the problem then writes the code. </br>
+Pursuing Full Stack JavaScript Web Developer Bootcamp at <a href="https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer">iNeuron.io</a>
 
-- Learning in public on <a href="https://twitter.com/ajaybor0">Twitter</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/ajaybor0/">Linkedin</a>
+**Sharing my learning journey✍️**
+</br> 👉<a href="https://www.instagram.com/ajayborocoding/">Instagram</a>
+</br> 👉<a href="https://twitter.com/ajaybor0">Twitter</a>
+</br> 👉<a href="https://www.linkedin.com/in/ajaybor0/">Linkedin</a>
 
 **Languages and Tools:**
 
