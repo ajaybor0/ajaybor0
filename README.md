@@ -1,6 +1,6 @@
-![](https://i.ibb.co/GWMLqcB/Add-a-heading.png)
 
-I’m a passionate Frontend Developer based in India, who solves the problem then writes the code. </br>
+
+I’m a Aspiring Full Stack JavaScript Developer based in India, who solves the problem then writes the code. </br>
 Pursuing Full Stack JavaScript Web Developer Bootcamp at <a href="https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer">iNeuron.io</a>
 
 **Sharing my learning journey✍️**
