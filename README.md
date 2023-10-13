@@ -1,7 +1,6 @@
 
 
-I’m a Aspiring Full Stack JavaScript Developer based in India, who solves the problem then writes the code. </br>
-Pursuing Full Stack JavaScript Web Developer Bootcamp at <a href="https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer">iNeuron.io</a>
+I’m an Aspiring Full Stack JavaScript Developer based in India, solving the problem and then writing the code. </br>
 
 **Sharing my learning journey✍️**
 </br> 👉<a href="https://www.instagram.com/ajayborocoding/">Instagram</a>
