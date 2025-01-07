@@ -3,7 +3,6 @@ Hello👋, I'm Ajay </br>
 Full Stack JavaScript Developer from India,</br>with a passion for open-source contributions.</br>Dedicated to mastering both front-end and back-end technologies,</br>committed to innovation and continual growth in the field. </br>
 
 **Sharing my learning journey✍️**
-</br> 👉<a href="https://twitter.com/ajaybor0">Twitter</a>
 </br> 👉<a href="https://www.linkedin.com/in/ajaybor0/">Linkedin</a>
 
 **Languages and Tools:**
